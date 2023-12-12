@@ -45,7 +45,7 @@
 		        <executions>
 		            <execution>
 		                <goals>
-		                    <goal>detectTestSmells</goal>
+		                    <goal>TestSmeller</goal>
 		                </goals>
 		            </execution>
 		            </executions>
